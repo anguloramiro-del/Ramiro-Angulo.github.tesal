@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Telehealth AI Lab",
+  "description": "Plataforma interactiva educativa sobre Inteligencia Artificial, Machine Learning y Ciencia de Datos aplicada a la telesalud y monitoreo remoto de pacientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
